@@ -1,0 +1,18 @@
+p{
+	margin:0px 10px 0px 20px;font-size:25px;font-family:'verdana',san-serif; color: chocolate;}
+	
+h2{background-color:yellow; font-family:'georgia',serif;font-size:25px;}
+
+ul{font-size:25px;font-family:'verdana',san-serif; color: chocolate;}
+
+#name{display:block}
+
+
+.lightmode{background-color:beige;}
+
+.darkmode{background-color:black;}
+
+
+
+.highlighter{color:crimson; font-size:30px;font-style:italic;}
+
